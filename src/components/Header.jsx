@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header>
-      <div class="container">
+      <div className="container">
         <h2>Feedback UI</h2>
       </div>
     </header>
